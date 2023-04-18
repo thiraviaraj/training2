@@ -1,4 +1,6 @@
-# Training2
+# Training2 
+
+[![Training2 CI](https://github.com/thiraviaraj/training2/actions/workflows/node.js.yml/badge.svg)](https://github.com/thiraviaraj/training2/actions/workflows/node.js.yml)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
